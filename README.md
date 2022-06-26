@@ -1,3 +1,8 @@
+---
+title: Test
+published: false
+
+---
 # Forestry Jekyll demo
 
 A Jekyll demo site for [Forestry CMS](https://forestry.io).
@@ -44,5 +49,3 @@ bundle install
 # Run a local server to preview your work 
 bundle exec jekyll serve
 ```
-
-
