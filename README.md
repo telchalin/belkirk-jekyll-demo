@@ -1,5 +1,6 @@
 ---
 title: Test
+heading: Test Hero Heading
 published: false
 
 ---
